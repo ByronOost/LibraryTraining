@@ -1,0 +1,134 @@
+000 Computer Science, knowledge, and systems 
+	010 Bibliographies 
+		011 Bibliographies
+		017 General subject catalogues
+		018 Catalogs arranged by author, date, etc.
+	050 Magazines, journals, and serials 
+		051 Serials in American English 
+		053 Serials in other Germanic Languages
+		057 Serials in Slavic languages 
+	060 Associations, organizations, and museums
+		061 Organizations in North America
+		066 Organizations in Iberian Peninsula and adjacent islands
+		069 Museum science
+100 Philosophy and Psychology
+	100 Philosophy
+		101 Theory of Philosophy 
+		102 Miscellany
+		109 History and Collected Biography 
+	140 Philosophical schools of thought 
+		145 Sensationalism 
+		146 Naturalism and related systems and doctrines 
+		147 Pantheism and related systems and doctrines 
+	170 Ethics
+		172 Political ethics
+		174 Occupational ethics 
+		176 Ethics of sex and reproduction 
+200 Religion 
+	220 The bible 
+		223 Poetic books of Old Testament 
+		225 New Testament 
+		227 Epistles
+	230 Christianity 
+		234 Salvation and Grace 
+		238 Creeds, confessions of faith, covenants, and catechisms
+		239 Apologetics and polemics
+	290 Other religions 
+		297 Islam, Babism and Baha I Faith 
+		298 Mormonism 
+		299 Religions not provided for elsewhere 
+300 Social Sciences 
+	330 Economics 
+		333 Economics of land and energy 
+		335 Socialism and related systems 
+		338 Production
+	350 Public administration and military science 
+		357 Mounted forces and warfare
+		358 Air and other specialized forces and warfare
+		359 Sea forces and Warfare
+	370 Education
+		371 Schools and their activities, special education 
+		374 Adult education 
+		375 Curricula 
+400 Language 
+	410 Linguistics 
+		411 Writing systems of standard forms of languages 
+		412 Etymology of standard forms of language 
+		419 Sign languages 
+	420 English and Old English languages 
+		421 Writing system, phonology of standard English 
+		422 Etymology of standard English 
+		429 Old English (Anglo-Saxon)
+	430 German and related languages 
+		431 Writing systems, phonology, phonetics of standard German 
+		432 Etymology of standard German 
+		439 Other Germanic languages 
+500 Science
+	540 Chemistry 
+		542 Techniques, procedures, apparatus, equipment, materials 
+		546 Inorganic chemistry 
+		549 Mineralogy 
+	550 Earth sciences and geology 
+		555 Earth sciences of Asia
+		557 Earth sciences of North America 
+		558 Earth sciences of South America 
+	570 Biology 
+		571 Physiology and related subjects 
+		572 Biochemistry 
+		577 Ecology 
+600 Technology 
+	610 Medicine and Health 
+		612 Human physiology 
+		615 Pharmacology and therapeutics 
+		616 Disease 
+	630 Agriculture 
+		633 Field and plantation crops 
+		636 Animal husbandry 
+		638 Insect culture 
+	640 Home and family management 
+		641 Food and Drink 
+		644 Household Utilities 
+		648 Housekeeping 
+700 Arts and recreation 
+	720 Architecture 
+		725 Public structures 
+		727 Buildings for educational and research purposes 
+		728 Residential and related buildings 
+	750 Painting 
+		752 Colour 
+		755 Religion 
+		757 Human figures 
+	780 Music 
+		782 Vocal music
+		783 Music for single voices 
+		788 Wind instruments 
+800 Literature 
+	820 English and Old English literatures 
+		822 English drama 
+		823 English fiction 
+		826 English letters 
+	860 Spanish, Portuguese, Galician literatures 
+		864 Spanish essays 
+		865 Spanish speeches 
+		866 Spanish letters 
+	870 Latin and Italic literatures 
+		871 Latin Poetry 
+		875 Latin speeches 
+		876 Latin letters 
+900 History and geography 
+	900 History 
+		901 Philosophy and theory of history 
+		905 Serial publications of history 
+		909 World history 
+	940 History of Europe 
+		941 British Isles 
+		942 England and Wales 
+		948 Scandinavia 
+	950 History of Asia 
+		952 Japan 
+		955 Iran 
+		958 Central Asia 
+
+
+
+

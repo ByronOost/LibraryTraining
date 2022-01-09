@@ -1,0 +1,13 @@
+READ ME 
+
+Byron Oosthuizen 19002371
+PROG7312 POE TASK Final 
+
+
+When opening the submitted folder you can find all the required documents as well as the source code named
+"Library Training"
+Open this folder in your Visual studio to view and edit code 
+OR view the code in a text document by right clicking on a file an requesting to open it in notepad 
+you can also run the application directly by opening it in the 'bin' folder then the 'Debug' folder and finding the applications 'LibraryTraining.exe' file 
+
+You can find the DewyDecimal.txt file in the bin folder under debug this file is where th eappliaction gets the data for the POE final
