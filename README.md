@@ -1,7 +1,7 @@
 # LibraryTraining
 My 3rd year final programming Assignment which I received 90% for, no additional updates have been made since it was marked 
 
-You cna find the project assignment rubric and instuctions in the POE.pdf file
+You can find the project assignment rubric and instuctions in the POE.pdf file
 
 You will need to download the entire .ZIP folder
 You then need to enter into the Debug folder and run LibraryTraining.exe
